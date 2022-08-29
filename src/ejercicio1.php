@@ -16,7 +16,8 @@ Segundo Numero: <input type="text" name="numero2"><br/><br/>
 <input type="radio" name="operaciones" value="Multiplicacion" id="Multiplicacion">
 <label for="Multiplicacion"> Multiplicacion </label>
 <input type="radio" name="operaciones" value="Division" id="Division">
-<!-- se corrigio la "c" por la "s" en la palabra division !-->
+<!-- se corrigio la "c" por la "s" en la palabra division. !-->
+
 <label for="Division"> Division </label>
 <br>
 <input type="submit" value="Calcular"></br>
